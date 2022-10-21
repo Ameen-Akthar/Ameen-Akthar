@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ameen-Akthar
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning web design
+- 🌱 I’m currently learnt web design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ameenakthart@gmail.com
 
